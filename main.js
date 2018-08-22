@@ -6,7 +6,7 @@
        console.log("success got data", data);
    });
  
- const current = document.getElementById('current');
+ const current = document.getElementById('curent');
  current.addEventListener('click', searchNaruto);
  
 //  const kakashi = document.getElementById('kakashi');
